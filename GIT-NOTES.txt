@@ -1,0 +1,7 @@
+Initialize working dir --> git init
+
+Note: `git status` command is used in Git to display the state of the working directory and the staging area. It helps users see which changes have been staged, which haven't, and which files are not being tracked by Git.
+
+Note: The staging area in Git, also known as the index or cache, is an intermediate area where you can gather changes you intend to commit to the Git repository.
+
+Note: `git add` command is used in Git to add changes in the working directory to the staging area (also known as the index).
